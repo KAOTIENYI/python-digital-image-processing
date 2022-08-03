@@ -1,1 +1,1 @@
-# python-or-c++-digital-image-processing
+# python-and-c++-digital-image-processing
